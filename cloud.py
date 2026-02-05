@@ -1,6 +1,5 @@
-# Cloud Computing Assignment
-# Simple Cloud Service Cost Calculator
-
+print("Pranjal Hemant Chavan")
+print("Cloud Computing Assignment 4")
 print("Calculating Cloud Service Cost")
 
 # Input from user
