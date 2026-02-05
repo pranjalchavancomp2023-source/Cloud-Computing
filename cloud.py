@@ -20,3 +20,6 @@ print("\n--- Cost Details ---")
 print("Storage Cost: ₹", total_storage_cost)
 print("Compute Cost: ₹", total_compute_cost)
 print("Total Cloud Usage Cost: ₹", total_cost)
+
+print("Changes done")
+print("Updated the cloud computing assignment 4")
